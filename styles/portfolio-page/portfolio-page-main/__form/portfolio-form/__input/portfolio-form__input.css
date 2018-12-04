@@ -1,0 +1,11 @@
+.portfolio-form__input {
+    width: 100%;
+    margin-top: 15px;
+    border:0;
+    border-bottom: 2px solid #E4AE58;
+    background-color: #e9714c;
+    outline: none;
+}
+.portfolio-form__input::-webkit-input-placeholder {
+    color: white;
+}

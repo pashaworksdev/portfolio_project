@@ -1,0 +1,10 @@
+.portfolio-form__button {
+    padding: 10px 80px;
+    margin-top: 30px;
+    border: none;
+    border-radius: 40px;
+    background-color: white;
+}
+.portfolio-form__button:hover {
+    box-shadow: 0 0 5px black;
+}

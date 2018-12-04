@@ -1,0 +1,13 @@
+.portfolio-page-header__navigation_style {
+    padding: 5px 5px;
+    text-decoration: none;
+    color: #a59596;
+}
+.portfolio-page-header__navigation_style:hover {
+    color: #E4AE58;
+}
+@media(max-width: 1024px) {
+    .portfolio-page-header__navigation_style {
+        display: block;
+    }
+}

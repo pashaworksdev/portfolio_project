@@ -1,0 +1,5 @@
+@media(max-width: 768px) {
+    .portfolio-page-main__greeting {
+        width: 100%;
+    }
+}

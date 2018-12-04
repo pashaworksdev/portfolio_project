@@ -1,0 +1,10 @@
+@media(max-width: 1024px) {
+    .portfolio-page-main__photo {
+        width: 50%;
+    }
+}
+@media(max-width: 768px) {
+    .portfolio-page-main__photo {
+        width: 100%;
+    }
+}

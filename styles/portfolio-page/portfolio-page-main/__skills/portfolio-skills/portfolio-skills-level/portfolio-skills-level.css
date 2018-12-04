@@ -1,0 +1,4 @@
+.portfolio-skills-level {
+    display:flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,10 @@
+.portfolio-greeting {
+    width: 100%;
+    padding: 260px 50px;
+    background-color: #f0e2d7;
+}
+@media(max-width: 768px) {
+    .portfolio-greeting {
+        padding: 80px 50px;
+    }
+}

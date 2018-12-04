@@ -1,0 +1,12 @@
+.portfolio-greeting__button {
+    padding: 10px 30px;
+    margin-top: 40px;
+    border-color: black;
+    border-radius: 40px;
+    background-color: #f0e2d7;
+    text-transform: uppercase;
+}
+
+.portfolio-greeting__button:hover {
+    box-shadow: 0 0 5px black;
+}

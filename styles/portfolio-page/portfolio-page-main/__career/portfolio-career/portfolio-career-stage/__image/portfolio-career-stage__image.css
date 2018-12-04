@@ -1,0 +1,8 @@
+.portfolio-career-stage__image {
+    width: 15%;
+}
+@media(max-width: 1024px) {
+    .portfolio-career-stage__image {
+        width: 100%;
+    }
+}

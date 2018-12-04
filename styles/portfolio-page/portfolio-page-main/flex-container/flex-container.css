@@ -1,0 +1,5 @@
+.flex-container {
+    display:flex;
+    min-width: 252px;
+    min-height: 400px;
+}

@@ -1,0 +1,10 @@
+.portfolio-page-header__navigation {
+    width: 50%;
+    margin-top: 3%;
+    text-align: center;
+}
+@media(max-width: 1024px) {
+    .portfolio-page-header__navigation {
+        text-align: right;
+    }
+}

@@ -1,0 +1,9 @@
+.portfolio-about-two {
+    width: 100%;
+    padding: 100px 5%;
+    background-image: url(../../../../../images/6.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+}

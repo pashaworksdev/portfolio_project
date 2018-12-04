@@ -1,0 +1,10 @@
+.portfolio-photo_number_two {
+    background-image: url(../../../../../../images/1.jpg);
+    background-position-y: top;
+    background-size: 330%;
+}
+@media(max-width: 768px) {
+    .portfolio-photo_number_two {
+        background-size: 150%;
+    }
+}
